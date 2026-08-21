@@ -1,0 +1,741 @@
+P H A N T O M   S C A N
+Part 1 of The Dead Channel
+
+Chandannagar, West Bengal
+July 2032
+
+────────────────────────────────────────────────────────────────────────────────
+
+"The world wants to be scanned. The machines want it, the governments want it,
+ the corporations want it. They want every corner mapped, every person located,
+ every secret distance reduced to a coordinate.
+
+ What they don't expect is that children will understand this first.
+ Children look at a game and see it for what it is.
+ Sometimes that seeing kills them."
+
+                                         — Ayan Bose, field notebook
+                                           Kolkata, 2067
+
+────────────────────────────────────────────────────────────────────────────────
+
+
+P R O L O G U E
+
+THE GREEN LINES
+
+
+The monsoon had turned Chandannagar into something between a city and a river.
+Water stood in every street, reflecting the low grey sky, and the air itself
+had the quality of being liquidized — not just humid but actively transforming
+into something else, something that hung between water and air and required you
+to choose which element you were willing to submit to when you moved through it.
+
+Ayan Bose was ten years old and he had noticed, with the specific quality of
+attention that would define his adult life, that the green lines on Bilu's
+modified mobile screen did not match the city as it actually existed.
+
+The screen showed streets. The city had the same streets. But the green lines on
+the screen were cleaner — tidier, more precise, ordered according to some
+principle that the actual city had long ago abandoned in favour of monsoons and
+makeshift repairs and the accumulated mud of generations. On the screen, the
+Villa de l'Ermitage was clearly marked, its colonial walls rendered in perfect
+3D, its courtyards and cellars decomposed into traversable digital space.
+
+In the actual city, the Villa was simply abandoned — yellow walls going grey
+with moss, windows sealed with plywood, the gate to its grounds hanging open
+because the hinges had rusted through and nobody had bothered to fix them.
+
+"It's worth seven hundred fifty credits," Bilu said, squinting at the screen.
+The handset was old and heavily modified — a cracked piece of salvaged tech
+with copper wire antenna rig he'd fashioned himself, wrapped around it like
+vines. "Just for walking through it. The scan algorithm pays on density. More
+square metres scanned, more credits. But the bigger bonus is for interior
+volume. If I can get into the cellars, the bonus goes up to two thousand."
+
+They were sitting on the flat roof of an old jute warehouse, their feet dangling
+over the edge, the monsoon rain pattering around them in a pattern that seemed
+almost coded — deliberate, rhythmic, designed. Below them, Chandannagar moved
+through its afternoon in the specific dazed quality of monsoon-time, everything
+slowed, everything accepting that the world was wet and would remain so and there
+was no point in moving quickly.
+
+Ayan did not have a phone. His father — Inspector Bose, honest man, scholar of
+Tagore — had rules about screens and children, and they were firm. But he had
+come to accept that his son would spend his summers with Bilu and Bablu and
+Bachhu and Bhonbol, the loose squad of children who had appointed themselves
+keepers of Chandannagar's mysteries, and he had learned not to ask too many
+questions about what they did, because the answers were always the same:
+nothing dangerous, just looking.
+
+Just looking at things.
+
+"That's not a game," Ayan said.
+
+"Of course it's a game." Bilu rotated the screen, and the 3D model of the Villa
+turned with it, its cellars visible now as a kind of cross-section, little rooms
+rendered in the same clinical precision as the courtyards above. "Chasing
+Phantoms. You collect the currency, you unlock achievements, you climb the
+leaderboard. My score is in the top fifty in all of Bengal. If I can nail this
+Villa scan, I'll be top twenty."
+
+"The green lines," Ayan said.
+
+"What about them?"
+
+"They know where everything is. They're not a game. The games sit on top of
+them, but the lines are something else."
+
+Bilu looked at his friend — actually looked at him, the way he did when Ayan had
+said something that required a shift in what Bilu was thinking — and then he
+shrugged. "Sure. Fine. It's a game that sits on top of something else. Same
+thing everyone's game does. The difference is this one pays." He looked back at
+the screen. "And the Villa's been closed for thirty years. Why would anyone care
+about the scan? It's just a dead building."
+
+This was the flaw in Bilu's reasoning, Ayan would understand later. The belief
+that nobody would care about something made it safe. The belief that something
+was dead — abandoned, sealed, beyond function — made it useless to defend. And
+the belief that a building was only a building, that its cellars were only
+cellars, that the digital map was only a game.
+
+The belief that the green lines were not also something else.
+
+But Ayan was ten, and Bilu was eleven, and the monsoon had made everything seem
+permissible — the water, the grey light, the sense that the normal rules were
+temporarily suspended by weather. So when Bilu said "let's try it," Ayan said
+"all right," and they went downstairs to find Bablu, and told the story that
+would, over the course of a single afternoon, end with a child dead and with Ayan
+learning something about the physical world that would take him thirty-five years
+to fully understand.
+
+
+────────────────────────────────────────────────────────────────────────────────
+
+
+CHAPTER    O N E
+
+THE CHANDANNAGAR MYSTERY CLUB
+
+
+The club had no official meeting place, which was one of the things that made it
+a club — the understanding that the most important things existed in the gaps
+between official places, in the spaces that nobody had claimed. Their
+headquarters, by default, was the rooftop of the old jute warehouse because it
+was high enough to see most of Chandannagar, including the rivers, and because
+nobody important owned it anymore, and because Bablu had declared it so, and
+what Bablu declared, the squad accepted.
+
+Bablu was twelve and had appointed himself their leader because he had read
+stories about Bengal's independence fighters — accounts of Keshab Chandra Sen and
+Subhas Chandra Bose and all the young men who had believed that courage and
+clear thinking could change the shape of the world. He carried a linseed-oiled
+cricket bat everywhere, a symbol of defense, and he spoke in a way that suggested
+he had considered each word and found it acceptable before allowing it to leave
+his mouth. The other children deferred to him not because they were afraid of him
+— they were not — but because Bablu had the specific quality of someone who had
+decided something and would not change his mind, and this is the quality that
+often passes for leadership in the worlds of children.
+
+Bachhu was eleven, a girl who had the quality of moving through space the way
+some people moved through water — efficiently, without wasted motion, with the
+specific grace of someone who had learned early that her body was an instrument
+for getting things done. She was fearless in the way that children can be fearless
+when they have decided that fear is not a useful emotion and have not yet
+encountered something that would teach them otherwise.
+
+Bhonbol was twelve, broad-shouldered, with the soft quality of someone whose
+strength was not yet hardened into something that required management. He had a
+gentle way of talking and a habit of showing up with food — paper cones of roasted
+peanuts, or milk sweets from the shop on Naskar Road — because he believed that
+thinking worked better when the body was attended to. Later, when the violence
+came, Bhonbol would be the one who held Panchu as the dog screamed, and this act
+of holding something in pain would change him permanently.
+
+Bilu was the technical engine, the one who understood how systems worked because
+he had a mind that seemed calibrated for the space between physical things and
+their digital representations. He carried his modified phone everywhere and he
+talked about the networks the way other children talked about weather — as though
+they were simply the conditions under which things happened, not things designed
+by people with specific intentions.
+
+Panchu had arrived one monsoon season, a scruffy, three-quarter-starved street dog
+who had attached himself to the squad with the conviction of someone who believed
+they were missing something in their composition. He had rough fur the colour of
+wet clay and a sensitivity to high-frequency sounds — he would alert at the whine
+of a drone passing overhead long before the children could hear it. Panchu's nose
+was a organ of pure information — he could track a scent through rain, through
+crowds, through the interference of a dozen other smells, and arrive at its source
+with the certainty of someone following a map.
+
+And there was Ayan Bose, who did not speak much and who carried a black notebook
+that his father had given him for his tenth birthday, back in April, before the
+monsoon had fully committed to transforming the city. His father had written on
+the first page: *Write what you see. Not what you think about it. Just what you
+see.* And Ayan had taken this instruction seriously in the way that children take
+their parents' instructions seriously — as absolutes, as commandments, as the way
+things ought to be done.
+
+The Chandannagar Mystery Club had appointed itself guardian of a city that did not
+particularly need guarding. They investigated the abandoned factories along the
+Hooghly River. They tracked the patterns of the early morning cargo deliveries.
+They had a detailed map of which shopkeepers watered their milk and which ones
+gave honest measure. They had spent the previous monsoon tracking a series of
+thefts from the local textile workshop and had successfully identified the thief
+as a young man named Rajesh who had taken the fabric to pay for his mother's
+medical care. They had not reported him. They had instead left an anonymous note
+for the workshop owner suggesting that perhaps the missing fabric was something
+the workshop could afford to lose.
+
+This was the philosophy of the club: that the truth mattered, and that what you
+did with the truth after you found it was separate from the finding.
+
+On the afternoon that would become the last afternoon, they were assembled on the
+roof with the monsoon pressing down from above and the city dissolving into grey
+below. Bilu was showing them the Villa de l'Ermitage scan, rotating the 3D model,
+explaining the credit structure, the bonus mechanisms, the way the game actually
+worked — which was not like a game at all but like a system for converting the
+physical world into digital information, converting the information into currency,
+converting the currency into power.
+
+"The thing is," he was saying, "right now I only have the external perimeter.
+Walls, courtyards, the gate structure. But if I can get the interior — especially
+if I can get the basement levels — the algorithm pays a massive bonus because
+underground space is harder to scan with the drones. So the crowdsourced scans are
+more valuable."
+
+"Who pays?" Ayan asked.
+
+Bilu looked at him. "I don't know exactly. The company that owns the game is
+Niantic. But Niantic doesn't pay for the scans. They're paid by someone else, I
+think. Someone who wants the maps."
+
+"Maps of what?" Bablu said. "Maps of abandoned buildings? Why would anyone want
+that?"
+
+"Maps of everything," Bilu said. He looked at his screen. The green lines. The
+perfect 3D rendering of the Villa's layout. "Think about it. Thirty years ago you
+couldn't see anything without flying over it. Now, with the phones, with the
+game, with kids like me walking through places with the scan running — the entire
+world is getting mapped. Every corner. Every basement. Every place that humans can
+fit themselves into."
+
+"But it's just a building," Bachhu said.
+
+"Today it's just a building. Tomorrow it's a thousand buildings. All of them
+mapped. All of them available." Bilu paused. "My uncle works at the phone
+network. He says the new military satellites are going to be able to see
+everything. They're going to be able to watch any place, anywhere. But the
+drones — the drones are going to need to know the ground. They're going to need
+to have the terrain mapped at the resolution the game is creating."
+
+None of them understood this completely, and Bilu was already moving on to the
+specific mechanics of the Villa scan — the entry points, the probable layout, the
+bonus structure — but Ayan wrote it down, in his new notebook, on a page with
+the heading: *Green Lines.*
+
+He wrote: *The game maps the world. The drones need the maps. The game is not a
+game?*
+
+And below that: *Bilu believes the green lines are the real thing. The game sits
+on top of them.*
+
+And below that: *Does this matter?*
+
+
+────────────────────────────────────────────────────────────────────────────────
+
+
+CHAPTER    T W O
+
+THE VILLA DE L'ERMITAGE
+
+
+The Villa had been built in 1847, when the world still believed that Bengal could
+be permanently held by people from outside of it. It was a colonial mansion,
+designed to be imposing and successful and to broadcast, through every cream-
+coloured stone and wrought-iron balcony, that the people inside it owned things
+and would continue to own them because ownership was a permanent condition rather
+than a temporary mercy.
+
+This had proven incorrect.
+
+By 1989, when the independence movements had fully resolved themselves and the
+structures of colonial life had been dismantled or transformed, the Villa had
+already begun its decline. It had passed through several owners, none of them able
+to manage its expensive upkeep, and by 2010 it had been seized by the municipal
+authority as a liability. By 2032, it had been sealed and abandoned so thoroughly
+that most of Chandannagar had simply forgotten it existed.
+
+Except the maps had not forgotten it. The game remembered every corner.
+
+The gate was sealed, but the lock had been open for so long that the mechanism
+had seized and become permanent, and so it opened not with a click but with a
+grinding of rust and surrender. Inside, the courtyard was filled with the kind of
+green that comes from thirty years of undisturbed growth — vines that had climbed
+the walls with the certainty of something that knew it had won, moss that covered
+the original stone so thoroughly you could not see the seams between the bricks.
+
+It was beautiful in the way that decay is beautiful — honest, complete, without
+apology.
+
+Bilu led them, his modified phone out in front of him like a divining rod,
+watching the 3D model, checking their position against the rendered courtyard.
+Behind him, Bablu carried his cricket bat. Bachhu moved with the specific
+carelessness of someone who does not expect consequences. Bhonbol and Ayan
+followed, and Panchu moved with them, his three-legged gait adapted perfectly
+now to the uneven ground, his nose working the air.
+
+The monsoon had filled the lower courtyards with standing water, and they waded
+through it, the water warm and dark and probably carrying things you did not want
+to think about. Panchu did not mind the water. He moved through it like he was
+born for it.
+
+"The entrance is there," Bilu said, pointing. The main doors to the Villa proper
+were sealed with plywood, but the plywood had warped over years of monsoons, and
+there was a gap — not quite wide enough for a person, but Bachhu was small, and
+she had the habit of slipping through spaces that seemed impossible. She squeezed
+through, disappeared into darkness, and then the plywood shifted slightly and
+there was an opening.
+
+They moved into the Villa.
+
+It was cold inside, genuinely cold, the kind of cold that stone buildings produce
+when they have been sealed against sunlight and air circulation. The darkness was
+almost complete, and Bilu had to use his phone's light to navigate, the bright LED
+creating pools of visibility in a space that seemed actively resistant to seeing
+anything. They moved deeper, and the smell changed — not bad, exactly, but
+present, the smell of stone and stagnant water and the slow disintegration of
+things that had been sealed away.
+
+"The cellars are below the main hall," Bilu said, checking the rendered plan.
+"There's a door somewhere on the eastern wing. It should be — there."
+
+It was there. A heavy wooden door with iron hinges, warped by water damage but
+still functional. Bablu pulled it open — the hinges groaning, water pooling below
+— and the darkness underneath seemed even darker, as if the darkness of the Villa
+proper had concentrated itself down here and was waiting.
+
+They descended carefully, feeling their way along a stone wall, Bilu's phone light
+tracking the path. The water got deeper. By the time they reached the bottom of
+the stairs, it was mid-calf, warm, and absolutely opaque.
+
+"The scan requires full coverage," Bilu was saying, working his way deeper. "The
+algorithm is looking for volumetric density. More space covered, more credits. I'm
+going to walk the perimeter, get the full layout registered. Should take maybe
+ten minutes, then we leave."
+
+The cellars were vast — a series of underground rooms that seemed to extend
+indefinitely into darkness. Some had clearly been storage. Some had the layout of
+small living quarters, suggesting that the Villa had once required staff quarters
+underground, which is the way of colonial houses. Some were simply open space,
+their purpose long since abandoned.
+
+Ayan moved separately from the group, running his hand along the walls, noticing
+things. The stone here was different — newer than the original Villa stone. The
+brick pattern was irregular, as though it had been repaired and modified
+repeatedly. And there were rust stains on the stone, the distinctive blood-colour
+of oxidized iron, which meant metal had been exposed to water here for a very long
+time.
+
+He wrote, in his notebook, once they were back outside: *Weapons storage. The
+cellars were weapons storage. The rust pattern suggests ammunition. The irregular
+brickwork suggests repeated smuggling routes in and out.*
+
+But he did not know this yet. He was ten, moving through dark water, watching his
+friend with the modified phone, not understanding that the Villa was a place where
+something was happening, or had happened, or was about to happen.
+
+He was just looking.
+
+
+────────────────────────────────────────────────────────────────────────────────
+
+
+CHAPTER    T H R E E
+
+THE TERMINAL
+
+
+Bilu moved confidently through the flooded cellars, the phone's light bobbing
+ahead, the scan app running continuously. The algorithm was recording every
+surface, every corner, building a three-dimensional map of the space with
+millimetric precision. The app showed progress in the corner of the screen: 34%,
+38%, 41%.
+
+He was moving toward what appeared to be a sealed equipment locker, its door long
+ago rusted shut, when the light caught something — a glint of metal below the
+water, just visible. Bilu stopped.
+
+"Wait," he said.
+
+They waited. Bilu waded to the spot, his phone held carefully above water, and
+bent down. When he straightened, he had something in his hand — a casing, a brass
+cartridge, discolored with age but still maintaining its basic shape.
+
+"Ammunition," he said. He looked at it with the careful analysis of someone who
+had learned to identify things from being curious about how they were constructed.
+"Old. Like, forty years old maybe. This place had guns."
+
+"Put it down," Bablu said. Quietly.
+
+But Bilu was already moving deeper, drawn forward by the specific gravity of
+discovery, the pulling sensation that something was here that he was supposed to
+find. The water was deeper now, up to his ribs, and the darkness seemed to press
+more actively. And then the light caught something else — this time, not in the
+water.
+
+There was a room. Not a cellar room like the others, but something different.
+Built into the brick, partially concealed behind a false wall panel, there was a
+small enclosed space. And inside that space, bolted to a stand, was equipment.
+
+A terminal. A security-grade digital terminal with keypad access, the kind used
+for controlled entry systems. And beside it, in a weatherproofed case, was a data
+relay system — an encrypted uplink node, the kind that would have been used to
+manage remote facility operations.
+
+It was active. The lights on the node were glowing red and green, the colors
+shifting on a slow cycle. Still powered. Still connected.
+
+"That's a Vantor system," Bilu said. His voice had changed. He was looking at the
+terminal the way a person looks at something they have not expected to find and
+do not immediately understand. "That's a military-grade Vantor command terminal.
+What is that doing in a sealed, abandoned building?"
+
+"We should leave," Bablu said. He was not a naturally fearful person, but he had
+the specific instinct that certain discoveries were not discoveries you were
+meant to make. "We should leave now."
+
+But Bilu was already moving toward the equipment, drawn forward by the gravity of
+the finding. He approached the terminal, his phone still held carefully, and he
+reached out and touched the keyboard.
+
+It responded. The screen, which had been dark, flickered to life, displaying a
+command prompt, waiting for input. Bilu looked at his phone, at the scan data
+still accumulating, and he made a decision.
+
+He started typing commands, trying to access the underlying directory structure.
+The scan was still running — 56%, 58%, 61% — and he was seeing something in the
+data that interested him. The volumetric calculations, the precision of the spatial
+mapping, the way the algorithm was breaking the cellar down into usable
+coordinates.
+
+"The scan algorithm," he said, without looking away from the screen, "it's the
+same structure as military targeting data. Same coordinate system. Same volumetric
+breakdown. These aren't games, Bablu. I don't think they ever were."
+
+He pulled out a connecting cable from his pocket — he always carried cables, he
+carried cables the way other boys carried nothing — and he plugged his phone into
+the terminal.
+
+The data transfer began instantly. Not from the phone to the terminal, but from
+the terminal to the phone. Raw files, streaming directly into Bilu's device,
+gigabytes of coordinate data, mapping information, tactical overlays. The scan
+progress indicator disappeared and was replaced by a file transfer dialog:
+
+*VILLA_DE_L_ERMITAGE_COMPLETE_SCAN_COPY.ZIP — 847 MB TRANSFERRED*
+
+It was happening too fast to stop. Bilu was watching the transfer, his eyes wide,
+and then a sound came from deeper in the cellars — the sound of footsteps in
+water, heavy footsteps, the sound of someone moving with purpose toward them.
+
+"We need to go," Bablu said. He was moving backward toward the stairway, his
+cricket bat raised, not in aggression but in the defensive posture of someone who
+understood that something had changed.
+
+The footsteps got closer.
+
+Bilu was still holding the phone, still waiting for the transfer to complete, and
+he was not moving, and this was the moment in which everything became different.
+
+The transfer completed. The dialog closed. The files were on Bilu's phone.
+
+A man stepped into the cellar.
+
+
+────────────────────────────────────────────────────────────────────────────────
+
+
+CHAPTER    F O U R
+
+CASPAR RIEL
+
+
+He was young — twenty-six years old, though he moved with the cold certainty of
+someone much older — and he wore a dark, high-collar waterproof coat that had no
+logos, no brand markers, no reflective safety stripes. His face was sharp and his
+eyes were pale blue and entirely empty of expression, the way eyes are empty when
+the person inside has decided that emotion is a luxury item that interferes with
+work.
+
+His name was Caspar Riel, though Ayan would not know this until much later. In
+this moment, he was simply a man with a gun, appearing at the precise moment when
+a child decided he needed to copy files from a classified military terminal to a
+game application on his phone.
+
+Riel's gaze moved through the flooded cellar, taking in the children, taking in
+the terminal, taking in the cable still connected between the phone and the
+Vantor system. He calculated the situation with the same precision the game
+algorithm used to calculate space.
+
+He did not shout. He did not panic. He did not treat the situation like it was
+an emergency, because to Riel, all situations were the same — problems that
+required solutions, and solutions that required efficiency.
+
+He moved toward Bilu with a stride that was economical and complete. His hand
+clamped around Bilu's throat. The boy's breath caught. His feet left the water-
+covered floor, and he was slammed backward against the brick pillar that
+supported the false wall.
+
+"Hey!" Bablu screamed, the cricket bat rising. "Let him go!"
+
+Bablu charged, moving with the strength and anger of a twelve-year-old who had
+suddenly understood that something was genuinely wrong, that the game was not a
+game, that the afternoon had crossed a boundary from which it could not return.
+
+He swung the cricket bat with all his force, aiming for Riel's torso.
+
+Riel raised his left forearm, catching the bat on the bone. The wood made contact
+with a dull *thack*, but Riel's arm did not yield, did not break, did not show
+any sign of feeling impact. He pivoted, using the contact as a fulcrum, and drove
+a front-kick toward Bablu's chest.
+
+The kick landed with the precision of someone who had practiced this motion a
+thousand times. Bablu flew backward, his feet leaving the water, his body
+slamming into the floor with an impact that drove all the breath from his lungs.
+
+He came up gasping, his wrist making an angle it was not meant to make. Broken.
+He knew it instantly. The pain was so complete it seemed to have color, and his
+vision swam around the edges.
+
+Riel had not looked away from Bilu the entire time.
+
+"I... I didn't take the files," Bilu gasped, his voice strangled by the pressure
+on his throat. "Please—"
+
+Riel's pale blue eyes held no anger — only calculation, only the mathematical
+assessment of a problem that required a specific solution. He reached into his
+dark coat and withdrew a 9mm handgun with the comfortable familiarity of someone
+who had done this before, who had drawn a gun in dark rooms and flooded cellars
+and midnight streets with the frequency of practice.
+
+Ayan watched from the shadows where he had stepped when Riel first appeared. He
+wanted to scream but his throat was locked, his entire body in the grip of a fear
+so pure it felt like it was changing his physical composition, turning his blood
+into water, his bones into ice.
+
+He saw the gun. He saw the tiny stamp on the brass casing of the chambered round:
+*EU-31*. European manufacture. Military-grade ammunition.
+
+Riel pressed the muzzle directly behind Bilu's left ear, angling it downward.
+
+*"No!"* Bachhu shrieked from behind one of the pillars.
+
+Riel pulled the trigger.
+
+The sound in the enclosed brick cellar was not a sound so much as a physical force,
+a deafening *CRACK* that shattered the ancient plaster of the ceiling and sent a
+shower of dust falling into the dark water. In the moment of that sound, Ayan saw
+his friend's face go slack. He saw Riel release his grip. He saw Bilu's small body
+collapse sideways into the shallow, tea-coloured water, his face turned east,
+toward the Hooghly River, toward Manchester, toward anywhere but here.
+
+The blood pooled instantly. A dark blossom spreading through the silt. Ayan's
+eyes recorded it with the specific precision that shock produces — every detail,
+every angle, every colour rendered in perfect, terrible clarity.
+
+"Run," Bhonbol whimpered. His voice cracked into a sob.
+
+Riel turned his pale eyes toward the remaining darkness. He raised the gun.
+
+"Run!" Bablu choked out, cradling his shattered wrist, dragging himself toward the
+stairs with his feet.
+
+The children scrambled upward, desperate, Bachhu sobbing hysterically, Bhonbol
+scooping up Panchu, Bablu pulling himself up with one good arm. They burst toward
+the stairway and as they reached the top of the stairs, Riel fired a single,
+parting shot into the darkness.
+
+The bullet struck the brick wall, showering them with red dust, and then
+ricocheted downward. Panchu let out a horrific, high-pitched scream as the
+projectile shattered his rear leg. The dog tumbled down the steps in a flurry of
+blood and yelping, and Bhonbol scooped him up and they burst into the monsoon
+rain, running through the muddy streets of Chandannagar until their lungs burned
+and the yellow walls of the Villa de l'Ermitage had vanished behind the grey
+curtain of water.
+
+
+────────────────────────────────────────────────────────────────────────────────
+
+
+CHAPTER    F I V E
+
+AFTER
+
+
+They hid in an abandoned jute warehouse near the railway tracks, a structure so
+old that its corrugated tin roof moved like paper in the monsoon wind. The rain
+drummed overhead with the sound of a thousand iron hammers. Nobody spoke.
+
+Bablu rocked back and forth, cradling his broken wrist, his face white with shock
+and pain. Bhonbol sat in the corner holding Panchu, who had stopped screaming but
+whose rear leg was at an angle that made Ayan's stomach tighten when he looked at
+it. Bachhu stared blankly at the wet floor, her eyes wide, her hands shaking so
+violently she had to sit on them.
+
+Bilu's modified phone lay on the dirt floor between them, its screen flickering.
+The *Chasing Phantoms* application was being wiped remotely — Ayan could see the
+process, the files being deleted, the scan data being purged from the device. A
+clean grey notification appeared on the screen:
+
+    SYSTEM ERROR // NIANTIC SPATIAL
+    File 'Villa_de_l_Ermitage_Scan' corrupted.
+    Target location retired from database.
+    Your account has been credited: 0.00
+
+The digital world had simply deleted Bilu. Deleted the afternoon. Deleted all
+evidence that the files had been copied or that any scan had taken place.
+
+Ayan sat apart from the others, his hands covered in mud and his dead friend's
+blood. The blood had splashed on his shirt when Riel pulled the trigger, and it
+had dried now to a dull brown colour, indistinguishable from the mud of the
+monsoon streets.
+
+He reached into his plastic-wrapped pocket and withdrew his new black notebook —
+the gift from his father for his tenth birthday, still clean, still unused — and
+with shaking, blood-stained fingers, he carefully unwrapped it.
+
+He opened it to the first page. The paper was clean, white, real. It did not
+require a signal. It had no sensors. It could not be remotely wiped by servers in
+Brussels or San Francisco or anywhere else. It simply was.
+
+He took out his small graphite pencil. With careful, deliberate, shaking strokes,
+he wrote his first entry:
+
+    **July 20, 2032. Chandannagar.**
+    
+    The Case: The murder of Bilu.
+    
+    The Spot: Villa de l'Ermitage. Cellars. Beneath the false wall where the Vantor
+    terminal sits.
+    
+    The Wound: Left occipital bone. Entry angle downward. Close range. Execution-
+    style.
+    
+    The Weapon: 9mm handgun. Casing stamped EU-31. Military manufacture.
+    
+    The Killer: Young. Twenty-six maybe. Cold blue eyes. Dark coat with no logos.
+    Carries no phone. Has a physical paper map instead. Moves with military precision.
+    
+    The Lesson: The green lines on the screen are not a game. The game sits on top
+    of them, but underneath, the lines are a map. A map for the machines. A map for
+    the drones. The screens are designed to lie. They hide what is underneath.
+    
+    Trust only what has physical weight.
+    
+    Trust only what cannot be remotely deleted.
+    
+    Trust only what you write down by hand.
+
+He closed the notebook with a soft, final *snap*. The sound seemed to echo in the
+warehouse, seemed to matter in a way that the digital deletion of Bilu's data did
+not. A physical sound. A real sound.
+
+His father would receive the broken wrist of Bablu, the stuttered trauma that
+would change Bhonbol forever, the terrified withdrawal of Bachhu. He would receive
+the three-legged dog that Ayan would beg to amputate in their kitchen, using the
+surgical knowledge of his years on the police force. He would receive the phone
+that they had not been able to wipe clean, and he would understand, immediately,
+what had happened.
+
+And he would launch his own investigation — a rogue investigation, thorough and
+precise, into the weapons smuggling operation that the Vantor terminal in the
+Villa's cellars had been part of. He would file reports. He would pursue evidence.
+He would find that the supply lines ran up through the military-industrial complex,
+that Vantor had been running an off-books weapons operation out of a sealed
+colonial mansion in Bengal, that the system that had wiped Bilu's phone was the
+same system that would later build the drones that would dominate warfare.
+
+And for this investigation, for his refusal to accept the official "accidental
+drowning" narrative, for his insistence on the physical evidence that nobody
+wanted to see, Inspector Bose would be systematically dismantled. Demoted.
+Stripped of his pension. Transferred to an archive desk where he would die a
+broken, bitter man, leaving his son with nothing but a worn copy of Gitanjali
+and a burning hatred for systems that protected themselves by destroying evidence.
+
+But that was all after.
+
+In the moment of the jute warehouse, with the monsoon pressing down and Bilu dead
+and Panchu's leg hanging at an angle, there was just Ayan, aged ten, writing in
+his notebook, learning the first true lesson: the physical world persists in
+telling the truth even when the systems built on top of it have decided to do
+otherwise.
+
+The bullet angle. The blood pooling. The metallurgical signature of the round.
+The broken bone of Bablu's wrist. The shattered leg of a three-legged dog.
+
+These things do not require signals. They do not get remotely deleted. They simply
+are.
+
+And they wait.
+
+
+────────────────────────────────────────────────────────────────────────────────
+
+
+E P I L O G U E
+
+THIRTY-FIVE YEARS LATER
+
+
+High above the rain-swept jute fields of Chandannagar, a red navigation light
+blinked once through the monsoon clouds. A Vantor reconnaissance drone, smaller
+and more elegant than the machines that would dominate the battlefields of 2067,
+but built on the same principles, carrying the same mapping technology, navigating
+terrain that had been scanned by children playing a game.
+
+Down on the ground, in the dark of the abandoned warehouse, Ayan Bose held his
+physical notebook in his hands — real, permanent, impossible to delete — and the
+terrible, bloody arithmetic of his life had officially begun.
+
+He would become an investigator. He would pursue physical evidence with a
+devotion that bordered on religious. He would believe, with absolute conviction,
+that the truth persists in the world even when systems decide it should be buried.
+He would fail at his marriage, lose his custody hearing, and become the kind of
+man who only functions when there is a case in front of him, because a case is
+the one place where his method was vindicated.
+
+And thirty-five years later, on a volcanic plateau in Iceland, he would find a
+bullet behind the left ear of a twenty-nine-year-old man named Marcus Hale, and he
+would understand, instantly and completely, that Riel had not stopped working in
+the cellars of Chandannagar. That the green lines had not remained a game. That
+the machines had grown larger and more efficient, and the men who ran them had
+learned to do more terrible things, but the principle was the same.
+
+The physical evidence survives.
+
+The body keeps its truth.
+
+He would sit in a storage-room office in Reykjavik-9, facing the rain, facing the
+machines in the sky, facing the specific weight of a thirty-five-year-old crime
+that had shaped everything he was, and he would write: *Body fell facing east.*
+
+And it would all come clear.
+
+The lines were not games. The drones needed maps. The maps came from children with
+phones. The children who asked the wrong questions died in cellars, their deaths
+officially erased, but the physical evidence — a bullet, a wound angle, a blood
+pattern — persisted, demanded to be seen.
+
+And a detective born in the monsoon of Chandannagar, who had learned at ten years
+old that paper was the only honest medium, would spend his life assembling that
+evidence until it became undeniable.
+
+The dead always speak.
+
+You just have to know how to listen.
+
+
+────────────────────────────────────────────────────────────────────────────────
+
+END?....
